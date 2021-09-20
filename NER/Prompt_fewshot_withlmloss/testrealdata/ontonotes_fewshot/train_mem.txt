@@ -1,0 +1,16 @@
+The two party leaders had also agreed to meet U.S. Assistant Secretary for Near Eastern Affairs Robert Pelletreau in September " to solidify the cease-fire and to pursue reconciliation " , Davies said .	U.S. ! location ; Near Eastern ! mix ; Robert Pelletreau ! person ; Davies ! person ;
+" Some Japanese are still unrepentant about the atrocities committed by the Japanese militarists during the war , " said a commentary in the official China Daily .	Japanese ! mix ; Japanese ! mix ; China Daily ! org ;
+CALL B 97.00 PCT 0.75 DEM 2.50 PCT 127.10 X	DEM ! mix ;
+Guillaume Raoux ( France ) vs. Filip Dewulf ( Belgium )	Guillaume Raoux ! person ; France ! location ; Filip Dewulf ! person ; Belgium ! location ;
+To bat : Inzamam-ul-Haq , Salim Malik , Asif Mujtaba , Wasim	Inzamam-ul-Haq ! person ; Salim Malik ! person ; Asif Mujtaba ! person ; Wasim ! person ;
+LEEDS , England 1996-08-26	LEEDS ! location ; England ! location ;
+He is appealing in both cases to the Supreme Court .	Supreme Court ! org ;
+Preston 2 Crewe 1	Preston ! org ; Crewe ! org ;
+Result of a European Super League	European Super League ! mix ;
+Marcos LM600 162	Marcos LM600 162 ! mix ;
+BASEBALL - BONDS ' CONSECUTIVE GAME STREAK ENDS .	BONDS ! person ;
+The opposition party Radical Cause controls all of the unionized workers at the CVG heavy industry complex and has systematically opposed all government legislation in congress .	Radical Cause ! org ; CVG ! org ;
+EXPANSION	EXPANSION ! org ;
+MANCHESTER , England 1996-08-28	MANCHESTER ! location ; England ! location ;
+Frederic Vitoux ( France ) beat Ramon Delgado ( Paraguay ) 6-4 6-4 7-6 ( 7-3 )	Frederic Vitoux ! person ; France ! location ; Ramon Delgado ! person ; Paraguay ! location ;
+HONG KONG 1996-08-23	HONG KONG ! location ;
