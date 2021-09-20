@@ -12,7 +12,6 @@ from pprint import pprint
 import tensorflow as tf
 logging.set_verbosity_info()
 
-
 def convert_tf_checkpoint_to_pytorch(tf_checkpoint_path, pytorch_dump_path, model_name):
     # Initialise PyTorch model
     config = T5Config.from_pretrained(model_name)
@@ -39,16 +38,13 @@ def convert_tf_checkpoint_to_pytorch(tf_checkpoint_path, pytorch_dump_path, mode
     # torch.save(ckpt, os.path.join(pytorch_dump_path, "pytorch_model.bin"))
 
 if __name__ == "__main__":
-    savepath_prefix = ["/data/qin/lm_adapted_t5model/torch_ckpt/small","/data/qin/lm_adapted_t5model/torch_ckpt/base",
-                       "/data/qin/lm_adapted_t5model/torch_ckpt/large","/data/qin/lm_adapted_t5model/torch_ckpt/xl",
-                       "/data/qin/lm_adapted_t5model/torch_ckpt/xxl"]
+    savepath_prefix = ["/export/share/sjoty/continual-learning/lm_adapted_model/torch_ckpt/large"]
     for path in savepath_prefix:
         if not os.path.exists(path):
             os.mkdir(path)
-    modeltype = ["google/t5-v1_1-small", "google/t5-v1_1-base", "google/t5-v1_1-large", "google/t5-v1_1-xl", "google/t5-v1_1-xxl"]
-    loadpath_prefix = "/data/qin/lm_adapted_t5model/"
-    ckptpath = [loadpath_prefix+"t5.1.1.lm100k.small/",loadpath_prefix+"t5.1.1.lm100k.base/",loadpath_prefix+"t5.1.1.lm100k.large/",
-                loadpath_prefix+"t5.1.1.lm100k.xl/",loadpath_prefix+"t5.1.1.lm100k.xxl/"]
+    modeltype = ["google/t5-v1_1-large"]
+    loadpath_prefix = "/export/share/sjoty/continual-learning/lm_adapted_model/"
+    ckptpath = [loadpath_prefix+"t5large/"]
     # tf_path = os.path.abspath('/data/qin/lm_adapted_t5model/t5.1.1.lm100k.small/model.ckpt-*.data-*')  # Path to our TensorFlow checkpoint
     for i in range(len(modeltype)):
         print(i)
