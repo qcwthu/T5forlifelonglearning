@@ -1,0 +1,48 @@
+premise: The man is aiming a gun [SEP] hypothesis: The man is drawing a gun	entailment
+premise: A large green ball is hitting a potato [SEP] hypothesis: A big green ball is knocking a potato	entailment
+premise: A large man is sitting in a military accessories shop [SEP] hypothesis: A large man is sitting in a military accessories store	entailment
+premise: A boy is looking at a calendar [SEP] hypothesis: A boy is staring at a calendar	entailment
+premise: The blonde girl with the pink top is smiling and wearing funny glasses with a large nose attached [SEP] hypothesis: A little girl is smiling and wearing a fake nose and glasses	entailment
+premise: Someone is stirring a pot of chili with a spoon [SEP] hypothesis: Someone is stirring chili in a pot	entailment
+premise: A person is chopping a red onion [SEP] hypothesis: A person is chopping an onion	entailment
+premise: A rainbow afghan is being held by a girl in gold and purple [SEP] hypothesis: A girl in gold and purple is holding a rainbow afghan	entailment
+premise: A person is slicing an onion [SEP] hypothesis: A person is cutting an onion	entailment
+premise: A young boy is sitting in a bathing suit and waiting for the next race [SEP] hypothesis: A young swimmer is sitting in a bathing suit and waiting for the next race	entailment
+premise: A motorcyclist on a bike is leaning into a sharp corner [SEP] hypothesis: A man on a motorcycle is turning around a corner	entailment
+premise: A group of scouts are hiking through the grass [SEP] hypothesis: Some people are walking	entailment
+premise: A man, a woman and two girls are walking on the beach [SEP] hypothesis: Four people are walking on the beach	entailment
+premise: A woman is carefully deboning a fish [SEP] hypothesis: A woman is deboning a fish	entailment
+premise: A man and a woman are driving down the street in a jeep [SEP] hypothesis: A man and a woman are driving down the road in a car	entailment
+premise: An email is being read by a man [SEP] hypothesis: A man is reading an email	entailment
+premise: A man is wearing a clear plastic cap and a mask [SEP] hypothesis: A man by a brick wall is wearing a mask around his mouth and a hair net	neutral
+premise: A woman is boiling noodles in water [SEP] hypothesis: Someone is stirring noodles in the water	neutral
+premise: A dog, which is large and gray, is carrying a ball in its mouth and running across the grass [SEP] hypothesis: A large, gray ball is hitting a running dog, which is carrying some grass in its mouth	neutral
+premise: A man is repairing tiles with his hands [SEP] hypothesis: A man is breaking wooden boards with his hand	neutral
+premise: Two people are carrying colorful baskets and blankets and walking near a building [SEP] hypothesis: Two people are carrying gray baskets and blankets and walking near a building	neutral
+premise: A woman is not slicing carrots [SEP] hypothesis: A woman is cutting potatoes	neutral
+premise: Two women with dogs are walking on a forest path [SEP] hypothesis: Two dogs and two people are sitting in the woods	neutral
+premise: The man is stirring the sauce for the chicken [SEP] hypothesis: The man is cooking sauce for the meat	neutral
+premise: A person is not doing a trick on a slide [SEP] hypothesis: A snowboarder is grinding down a long concrete rail	neutral
+premise: A man is being roped before a climb [SEP] hypothesis: A man is climbing a rope	neutral
+premise: A man is pouring a plate of shredded cheese into a pot of sauce [SEP] hypothesis: A man is pouring a pot of cheese sauce into a shredded plate	neutral
+premise: The white dogs are looking curiously at the black llama [SEP] hypothesis: A black sheep is standing near three white dogs	neutral
+premise: A child, who looks young, is standing in front of some trees [SEP] hypothesis: A small boy is standing in the forest	neutral
+premise: A person is cutting some mushrooms [SEP] hypothesis: A person is putting away the mushrooms	neutral
+premise: Five kids are standing close together and none of the kids has a gun [SEP] hypothesis: Five children are standing in front of a wooden hut	neutral
+premise: A man in a big city is holding a sign and begging for money [SEP] hypothesis: A man in a small city is doing charity work	neutral
+premise: Nobody is holding a hedgehog [SEP] hypothesis: Someone is holding a hedgehog	contradiction
+premise: Two men are not holding fishing poles [SEP] hypothesis: Two men are holding fishing poles	contradiction
+premise: The woman is picking up the kangaroo [SEP] hypothesis: The kangaroo is picking up the woman	contradiction
+premise: A man is wearing a purple shirt and black leather chaps and is posing for the camera [SEP] hypothesis: A man is not wearing a purple shirt and black leather chaps and is posing for the camera	contradiction
+premise: A man is not cutting a potato [SEP] hypothesis: A man is cutting a potato	contradiction
+premise: A dog is jumping at a shiny blue soccer ball in a field of dry leaves [SEP] hypothesis: There is no dog jumping at a shiny blue soccer ball in a field of dry leaves	contradiction
+premise: The lady is peeling the potato [SEP] hypothesis: A woman is not peeling a potato	contradiction
+premise: A young girl in blue is jumping in the air [SEP] hypothesis: There is no girl in blue jumping in the air	contradiction
+premise: Two children are not playing in the surf [SEP] hypothesis: Two children are playing in the surf	contradiction
+premise: The little girl is not swinging and the woman is not standing behind her [SEP] hypothesis: The little girl is swinging and the woman is standing behind her	contradiction
+premise: A little dog is running on the sand [SEP] hypothesis: No little dog is running on the sand	contradiction
+premise: The boy is sitting near the blue ocean [SEP] hypothesis: The boy is wading through the blue ocean	contradiction
+premise: The woman is picking up a baby kangaroo [SEP] hypothesis: The woman is not picking up a baby kangaroo	contradiction
+premise: A lot of people are in an ice skating park [SEP] hypothesis: Not a lot of people are in an ice skating park	contradiction
+premise: The woman is cracking two eggs into a glass bowl [SEP] hypothesis: There is no woman cracking an egg into a bowl	contradiction
+premise: A dog is not running towards a ball [SEP] hypothesis: A dog is running towards a ball	contradiction

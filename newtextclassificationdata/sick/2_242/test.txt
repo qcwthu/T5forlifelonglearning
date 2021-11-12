@@ -1,0 +1,271 @@
+premise: The young boys are playing outdoors and the man is smiling nearby [SEP] hypothesis: There is no boy playing outdoors and there is no man smiling	contradiction
+premise: There is no girl in white dancing [SEP] hypothesis: A girl in white is dancing	contradiction
+premise: A woman is taking off a cloak, which is very large, and revealing an extravagant dress [SEP] hypothesis: A woman is putting on a cloak, which is very large, and concealing an extravagant dress	contradiction
+premise: A man isn't tossing a kid into the swimming pool that is near the ocean [SEP] hypothesis: The man is tossing a kid into the swimming pool that is near the ocean	contradiction
+premise: A few men in a competition are running outside [SEP] hypothesis: A few men in a competition are running indoors	contradiction
+premise: A woman is being kissed by a man [SEP] hypothesis: There is no woman being kissed by a man	contradiction
+premise: An adult is in the amphitheater and is talking to a boy [SEP] hypothesis: There is no adult in the amphitheater talking to a boy	contradiction
+premise: A woman is combing her hair [SEP] hypothesis: There is no woman combing her hair	contradiction
+premise: A woman is dancing and singing alone [SEP] hypothesis: A woman is dancing and singing with other women	contradiction
+premise: Three young men are running, jumping and kicking near a vending machine [SEP] hypothesis: There is no man running, jumping and kicking near a vending machine	contradiction
+premise: The man is not stirring the sauce for the chicken [SEP] hypothesis: The man is stirring the sauce for the chicken	contradiction
+premise: Three boys in karate costumes aren't fighting [SEP] hypothesis: Three boys in karate costumes are fighting	contradiction
+premise: A snake is being fed a mouse by a man [SEP] hypothesis: No snake is being fed a mouse by a man	contradiction
+premise: The man is denying an interview [SEP] hypothesis: The man is granting an interview	contradiction
+premise: The man is not slicing the potato [SEP] hypothesis: The man is slicing a potato	contradiction
+premise: The lady is slicing a tomato [SEP] hypothesis: There is no one cutting a tomato	contradiction
+premise: The person is slicing a clove of garlic into pieces [SEP] hypothesis: The person is not slicing a clove of garlic into pieces	contradiction
+premise: There is no karate practitioner kicking at another man who is wearing protective boxing gloves [SEP] hypothesis: A karate practitioner is kicking at another man who is wearing protective boxing gloves	contradiction
+premise: A woman is playing a flute [SEP] hypothesis: The woman is not playing the flute	contradiction
+premise: A woman is putting on makeup [SEP] hypothesis: There is no woman putting on makeup	contradiction
+premise: A large green ball is hitting a potato [SEP] hypothesis: A big green ball is missing a potato	contradiction
+premise: The puppy is not playing with a plastic container [SEP] hypothesis: The puppy is playing with a plastic container	contradiction
+premise: A woman is driving a car and is talking to the man who is seated beside her [SEP] hypothesis: There is no woman driving a car and talking to the man seated beside her	contradiction
+premise: There is no woman using an eye pencil and applying eye liner to her eyelid [SEP] hypothesis: A woman is applying cosmetics to her eyelid	contradiction
+premise: There is no boy walking across a bridge [SEP] hypothesis: A boy is walking across a bridge	contradiction
+premise: There is no man standing on a roof top and playing a violin [SEP] hypothesis: A man is standing on a roof top and playing a violin	contradiction
+premise: A woman is putting meat in a pan [SEP] hypothesis: There is no woman putting meat in a pan	contradiction
+premise: Racers are running down a track [SEP] hypothesis: There are no racers running down a track	contradiction
+premise: A toy train is striking a toy car [SEP] hypothesis: A toy train is missing a toy car	contradiction
+premise: There is no man exercising [SEP] hypothesis: A man is exercising	contradiction
+premise: Boys are not dancing in front of some people [SEP] hypothesis: Boys are dancing in front of some people	contradiction
+premise: A boy is looking at a calendar [SEP] hypothesis: There is no boy checking a calendar	contradiction
+premise: There is no man drawing a picture [SEP] hypothesis: A man is drawing a picture	contradiction
+premise: There is no man eating food [SEP] hypothesis: A man is eating a pizza	contradiction
+premise: A man is playing a wooden flute [SEP] hypothesis: There is no man playing a wooden flute	contradiction
+premise: There is no man playing the piano [SEP] hypothesis: A man is playing the piano	contradiction
+premise: There is no dog playing with a toy [SEP] hypothesis: A dog is eating a doll	contradiction
+premise: A man is drawing [SEP] hypothesis: There is no man drawing	contradiction
+premise: The man is drawing [SEP] hypothesis: There is no man drawing	contradiction
+premise: A man is cutting a thick rope with a sword [SEP] hypothesis: There is no man cutting a rope with a sword	contradiction
+premise: A man is cooking a snake [SEP] hypothesis: There is no man cooking a snake	contradiction
+premise: There is no boy playing guitar [SEP] hypothesis: A boy is playing guitar	contradiction
+premise: There is no monkey teasing a dog at the zoo [SEP] hypothesis: A monkey is teasing a dog at the zoo	contradiction
+premise: There is no person cutting some ginger [SEP] hypothesis: A person is cutting some ginger	contradiction
+premise: A man is slicing a potato into pieces [SEP] hypothesis: A man is not cutting a potato	contradiction
+premise: A man is opening a box with a knife [SEP] hypothesis: There is no man opening a box with a knife	contradiction
+premise: A band is not playing some instruments [SEP] hypothesis: A band is playing some instruments	contradiction
+premise: A woman is slicing a fish [SEP] hypothesis: There is no woman slicing a fish	contradiction
+premise: A man is opening a door [SEP] hypothesis: There is no man opening a door	contradiction
+premise: There is no girl playing a flute [SEP] hypothesis: A girl is playing a flute	contradiction
+premise: A man is playing a large flute [SEP] hypothesis: There is no man playing a flute	contradiction
+premise: A man is playing a flute [SEP] hypothesis: A man is not playing a flute	contradiction
+premise: The man is not doing exercises [SEP] hypothesis: The man is doing exercises	contradiction
+premise: Two people are standing in the ocean and watching the sunset [SEP] hypothesis: Nobody is standing in the ocean and watching the sunset	contradiction
+premise: The woman in a red costume is leaning against a brick wall and playing an instrument [SEP] hypothesis: The woman in a red costume is not leaning against a brick wall and is not playing an instrument	contradiction
+premise: The ice hockey goalkeeper is wearing a yellow jersey and is defending the goal [SEP] hypothesis: There is no hockey player in a yellow jersey guarding the goal	contradiction
+premise: There is no man dressed in black wearing an elaborate black mask [SEP] hypothesis: A man dressed in black is wearing an elaborate black mask	contradiction
+premise: There is no man in a red uniform making a jump in a dirt bike race [SEP] hypothesis: A man in a red uniform is making a jump in a dirt bike race	contradiction
+premise: A brown dog is running across the yard with a toy in its mouth [SEP] hypothesis: There is no brown dog running across the yard with a toy in its mouth	contradiction
+premise: There is no little boy wearing a green soccer strip and running on the grass [SEP] hypothesis: A little boy is wearing a green soccer strip and is running on the grass	contradiction
+premise: The man at the beach is not doing a handstand on the wet sand at the edge of the water [SEP] hypothesis: The man is doing a handstand on the wet sand at the edge of the water at the beach	contradiction
+premise: A man is spraying a super soaker into the mouth of a dog [SEP] hypothesis: There is no man spraying a super soaker into the mouth of a dog	contradiction
+premise: A surfer is riding a big wave across dark green water [SEP] hypothesis: The surfer is riding a small wave	contradiction
+premise: The adults and children are not gathered near an outdoor seating arrangement [SEP] hypothesis: The adults and children are being gathered near an outdoor seating arrangement	contradiction
+premise: Some people and vehicles are on a crowded street [SEP] hypothesis: Some people and vehicles are on a almost empty street	contradiction
+premise: There is no bmx biker jumping dirt ramps in front of a body of water [SEP] hypothesis: Two bmx bikers are jumping dirt ramps in front of a body of water	contradiction
+premise: A man is not rock climbing and a city and a bay are in the background [SEP] hypothesis: A man is rock climbing and a city and a bay are in the background	contradiction
+premise: A blond child is going down a slide and throwing up his arms [SEP] hypothesis: A child with dark hair is going down a slide and throwing up his arms	contradiction
+premise: No dog is in the sand that is blowing in the wind [SEP] hypothesis: A dog is in a sandy area with the sand that is being stirred up into the air and several plants are in the background	contradiction
+premise: A cluster of four brown dogs are playing in a field of brown grass [SEP] hypothesis: Four dogs are not playing in a grassy area	contradiction
+premise: A black and white dog with a large branch is standing in the field [SEP] hypothesis: A black and white dog with a large branch is running in the field	contradiction
+premise: A boy is standing outside the water [SEP] hypothesis: The boy is wading through the blue ocean	neutral
+premise: A small group of people are standing and two are sitting on the sofa [SEP] hypothesis: A group of five young adults are lounging indoors	neutral
+premise: The man is granting an interview [SEP] hypothesis: A man's white car is being driven away	neutral
+premise: The motocross rider is standing naked [SEP] hypothesis: A biker with a blue jacket, black pants and a white helmet is driving on dirt and people are watching	neutral
+premise: A grey silky dog is lying in the grass and a brown dog is looking on [SEP] hypothesis: The brown dog is spotting a black dog lying in the dry grass	neutral
+premise: A classroom full of students is looking attentively in the same direction inside a bamboo structure [SEP] hypothesis: A group of students in uniforms is listening attentively at the front of the class	neutral
+premise: A man and woman are talking [SEP] hypothesis: A man and a woman are eating happily	neutral
+premise: A person is looking at a bike designed for motocross that is lying on its side and another is racing by [SEP] hypothesis: The bike rider is looking at an accident of another bike rider	neutral
+premise: A woman is combing her hair [SEP] hypothesis: A woman is arranging her hair	neutral
+premise: A person is slicing some mushrooms [SEP] hypothesis: The elephant is being ridden by the woman	neutral
+premise: A young girl is standing on one leg [SEP] hypothesis: A young female is dancing	neutral
+premise: A man is reloading a shotgun [SEP] hypothesis: A man is firing a shotgun	neutral
+premise: Three men are jumping off a wall [SEP] hypothesis: Three young men are furiously running, jumping and kicking near a vending machine	neutral
+premise: A man is flooring a sitting guitar player [SEP] hypothesis: A man is sitting on the floor in a room and strumming a guitar	neutral
+premise: A woman is peeling a potato [SEP] hypothesis: A woman is refrigerating a potato	neutral
+premise: The man is not dancing [SEP] hypothesis: A woman is dancing	neutral
+premise: The man is walking along a path through the wilderness [SEP] hypothesis: A man is lazily walking down a road	neutral
+premise: A woman is cutting shrimps [SEP] hypothesis: A man is chopping butter into a small container	neutral
+premise: A man is playing a guitar [SEP] hypothesis: A man is laying down a guitar	neutral
+premise: The girl in the blue and white uniform is cheering [SEP] hypothesis: The girl is cheering the man in the blue and white uniform	neutral
+premise: A woman in blue jeans is standing in front of a group of children beside a stone built house [SEP] hypothesis: No lady is standing on the street and is surrounded by school children	neutral
+premise: A woman is collecting the water from a tap in a mug [SEP] hypothesis: A boy is filling a pitcher with water	neutral
+premise: A big green ball is missing a potato [SEP] hypothesis: A big green ball is knocking a potato	neutral
+premise: The players is maneuvering for the soccer ball [SEP] hypothesis: A man in green is kicking a soccer ball and a man in purple and white is rising up	neutral
+premise: Some ingredients are being mixed in a bowl by a person [SEP] hypothesis: Some ingredients are being separated in a bowl by a person	neutral
+premise: A man is slicing a bun [SEP] hypothesis: A man is slicing a tomato	neutral
+premise: A person in a black jacket is doing tricks on a motorbike [SEP] hypothesis: A skilled person is riding a bicycle on one wheel	neutral
+premise: Recruits are talking to an officer [SEP] hypothesis: An officer is talking to the recruits	neutral
+premise: A race car driver is standing up and pointing his hand at the sky [SEP] hypothesis: A race car driver is sitting down and is motionless	neutral
+premise: The kids are not wearing suits and water is splashing around [SEP] hypothesis: Children in swimming suits are playing in the water	neutral
+premise: The man is chopping a tree trunk with an axe [SEP] hypothesis: A man is chopping a log with an axe	neutral
+premise: Someone is falling off a horse [SEP] hypothesis: The man is not knocked off of a horse	neutral
+premise: A brown and white dog is running through the tall grass [SEP] hypothesis: A brown and white dog is moving through the wild grass	neutral
+premise: A man in a blue cowboy hat is riding a white horse [SEP] hypothesis: A man in blue is riding a horse on a dirt road	neutral
+premise: A person in a pink jacket is running onto the field [SEP] hypothesis: Four athletes are with a woman in a crowded stadium	neutral
+premise: The cook is sprinkling cheese on the pizza [SEP] hypothesis: The man is sprinkling cheese on the pizza	neutral
+premise: A person wearing jeans is sitting happily on the top of a horse saddle [SEP] hypothesis: A woman in jeans is sitting on the saddle of a horse	neutral
+premise: A person is dancing [SEP] hypothesis: A woman is exercising	neutral
+premise: A dog is running with a ball [SEP] hypothesis: The black dog is carrying a blue and white ball in its mouth	neutral
+premise: A man is standing on the top of the rocks with clouds behind them [SEP] hypothesis: Somebody is standing on a mountain top	neutral
+premise: A golden dog is running through a field of tall grass [SEP] hypothesis: There is no brown dog running through tall green grass	neutral
+premise: A man from the wilderness is on a walking path [SEP] hypothesis: A man is walking down a road	neutral
+premise: A monkey is kicking at a person's glove [SEP] hypothesis: The monkey is practicing martial arts	neutral
+premise: A lady is surfing and riding a wave [SEP] hypothesis: A blond girl is looking at the waves	neutral
+premise: A person is standing near a motorcycle [SEP] hypothesis: A person is chopping an onion	neutral
+premise: Two sumo ringers are fighting [SEP] hypothesis: A man is riding a water toy in the water	neutral
+premise: Two young boys are looking up at the camera and one is sticking out his tongue [SEP] hypothesis: The little boy is sticking his tongue out for the camera and another boy is looking on	neutral
+premise: A large green ball is missing a potato [SEP] hypothesis: A large green ball is hitting a potato	neutral
+premise: A person by some cameras is blowing on a burning torch [SEP] hypothesis: The person is setting fire to the cameras	neutral
+premise: A man with no hat is sitting on the ground [SEP] hypothesis: A man with a backwards hat is sitting on the ground	neutral
+premise: A woman is grating carrots [SEP] hypothesis: A cook is coating a pork chop	neutral
+premise: A few men in a competition are running outside [SEP] hypothesis: A few men are running competitions outside	neutral
+premise: One man is climbing a cliff with a rope [SEP] hypothesis: A person with pink climbing gear roped the rock	neutral
+premise: There is no man spraying a super soaker into the mouth of a dog [SEP] hypothesis: A man is squirting water into the mouth of a white dog with a squirt gun	neutral
+premise: A waterfall is flowing into a shallow pool [SEP] hypothesis: The people are walking on the road beside a beautiful waterfall	neutral
+premise: The man in blue is posing for a picture next to a vehicle [SEP] hypothesis: A man is standing at the wheel of a classic American car that has its door and trunk open	neutral
+premise: A talented man is playing the guitar [SEP] hypothesis: A woman is playing a guitar	neutral
+premise: A little brown and white dog is running on the sidewalk [SEP] hypothesis: A little brown and white dog is running on the road	neutral
+premise: A brown and white dog is holding a baseball in its mouth [SEP] hypothesis: A black and white dog is dropping a baseball from its mouth	neutral
+premise: A woman is pulling some sticky goo out of a bowl [SEP] hypothesis: The woman is not putting pasta into a dish	neutral
+premise: The man is kick boxing with a trainer [SEP] hypothesis: There is no karate practitioner kicking at another man who is wearing protective boxing gloves	neutral
+premise: A surfer is riding the wave [SEP] hypothesis: A man is falling off a surfboard in the water	neutral
+premise: A dog is playing alone on a beach covered by snow [SEP] hypothesis: A dog is walking along a snowdrift	neutral
+premise: A man is parking a car in a garage [SEP] hypothesis: A man is getting into a car	neutral
+premise: The man is going into the water [SEP] hypothesis: The person is going into the sea	neutral
+premise: The woman is chopping some bread and fried pork [SEP] hypothesis: A woman is cooking a breaded pork chop	neutral
+premise: The woman wearing silver pants, pink bellbottoms and a pink scarf is riding a bike [SEP] hypothesis: Pink bellbottoms and a pink scarf aren't to be worn by women with silver pants or bike riding people	neutral
+premise: A person is climbing a rock with a rope, which is pink [SEP] hypothesis: One man is climbing a cliff with a rope	neutral
+premise: The lady isn't cracking an egg for the mixer [SEP] hypothesis: The lady is slicing up the meat	neutral
+premise: A female cheerleader is sitting on the knee of a male cheerleader [SEP] hypothesis: Some cheerleaders are relaxing	neutral
+premise: A dog is in a sandy area with the sand that is being stirred up into the air and several plants are in the background [SEP] hypothesis: A dog is in the sand that is blowing in the air	neutral
+premise: Not a lot of people are in an ice skating park [SEP] hypothesis: An ice skating rink placed outdoors is full of people	neutral
+premise: The microphone in front of the talking parrot is being muted [SEP] hypothesis: The parrot is talking into the microphone	neutral
+premise: A boy in a striped shirt is jumping behind a water fountain [SEP] hypothesis: A boy in a striped shirt is jumping in front of a water fountain	neutral
+premise: A girl in white is dancing [SEP] hypothesis: The blond girl is dancing in front of the sound equipment	neutral
+premise: A person is eating in a restaurant [SEP] hypothesis: A person is making a bed	neutral
+premise: People at a drag race are running away from the flames that are coming out of the cars [SEP] hypothesis: The crowd is watching two racing cars that are leaving the starting line	neutral
+premise: A girl is jumping rope on a sidewalk near a parking garage [SEP] hypothesis: A girl is skipping rope on near a street	neutral
+premise: A dog with a blue collar is playing with the ball outside [SEP] hypothesis: A grey dog is bouncing a soccer ball on its head in a grass field	neutral
+premise: A woman is playing the flute [SEP] hypothesis: A man is playing a flute	neutral
+premise: One white dog is staring at the black street [SEP] hypothesis: Two dogs of different breeds are looking at each other across a street	neutral
+premise: The man is not doing exercises [SEP] hypothesis: Two men are fighting	neutral
+premise: The boy and girl are not playing on a playground [SEP] hypothesis: The boy and girl are playing on the outdoor gym	neutral
+premise: Someone is beating an egg [SEP] hypothesis: The woman isn't stirring eggs in a bowl	neutral
+premise: The woman wearing the blue and white uniform with a white and blue hat is keeping her mouth open and is near others who are dressed in the same fashion [SEP] hypothesis: A woman is wearing a blue shirt with a white vest and a white cap and is talking and marching	neutral
+premise: Two people are sitting on a park bench on a sunny day [SEP] hypothesis: Two people are sitting on a park bench on a hot day	neutral
+premise: A small boy is scolding a dog [SEP] hypothesis: A small boy is playing with a dog	neutral
+premise: A man is playing the guitar loudly [SEP] hypothesis: A flute isn't being played by a man	neutral
+premise: There is no white dog with beige spots running through a field [SEP] hypothesis: A tan dog is running through the brush	neutral
+premise: Two people are riding a bike [SEP] hypothesis: A practicing jumper is tossing a person's snowboard into the air	neutral
+premise: A young girl in a blue shirt is walking on the sidewalk and holding up a pink sign [SEP] hypothesis: A young girl by a pink sign is holding up a blue shirt and is walking on the sidewalk	neutral
+premise: A little boy is wearing a yellow tank top and is laughing [SEP] hypothesis: A laughing boy is in a yellow tank and is wearing a top	neutral
+premise: Rugby players are not tackling each other [SEP] hypothesis: A soccer player is being tackled by his opponent	neutral
+premise: A boy is climbing up a wall artificially built for climbing and is attached to a rope [SEP] hypothesis: A little boy, who looks fearful, is on a climbing wall.	neutral
+premise: A dog is eating a doll [SEP] hypothesis: A dog is playing with a toy	neutral
+premise: A small white dog is running across a lawn [SEP] hypothesis: A big white dog is running across a lawn	neutral
+premise: A woman is wearing a blue helmet and is riding a bicycle in a parking lot [SEP] hypothesis: A woman is parking a blue bicycle and is wearing lots of riding helmets	neutral
+premise: The man is removing knives from a tree [SEP] hypothesis: The man is throwing knives at a tree	neutral
+premise: A black and orange bird is standing in the grass [SEP] hypothesis: The black bird with a yellow beak is standing in the green grass	neutral
+premise: Five children are standing in front of a wooden hut [SEP] hypothesis: Five children are standing in a wooden hut	neutral
+premise: A large brown dog and a small grey dog are standing on a rocky surface [SEP] hypothesis: A big brown dog and a small grey dog are standing on a rocky surface	entailment
+premise: The food on the trays is being eaten by the kittens [SEP] hypothesis: A few kittens are eating	entailment
+premise: Garlic is being chopped by a woman [SEP] hypothesis: A woman is chopping garlic	entailment
+premise: A man and two women in a dark room are sitting at a table with candles [SEP] hypothesis: The group of people is sitting in a dim room	entailment
+premise: A guinea pig, which is small, is gnawing and eating a piece of carrot on the floor [SEP] hypothesis: A small guinea pig is gnawing and eating a piece of carrot on the floor	entailment
+premise: One person is playing the guitar and singing [SEP] hypothesis: A person is playing a guitar and singing	entailment
+premise: The young girl is playing on the edge of a fountain and an older woman is watching her [SEP] hypothesis: A young girl is playing on the edge of a fountain and an older woman is watching her	entailment
+premise: A skateboarder is jumping off a ramp [SEP] hypothesis: A skateboarder is making a jump off a ramp	entailment
+premise: A tray is being buttered by a person [SEP] hypothesis: A person is buttering a tray	entailment
+premise: A flute is being played in a lovely way by a girl [SEP] hypothesis: A flute is being played by a girl	entailment
+premise: Two white dogs are playing with a brown dog and a tennis ball [SEP] hypothesis: Two white dogs are playing with a brown dog and a ball	entailment
+premise: A woman is slicing a potato [SEP] hypothesis: A woman is cutting a potato	entailment
+premise: The group of people is sitting in a dim room [SEP] hypothesis: The group of people is sitting in a room which is dim	entailment
+premise: A man is rowing a canoe [SEP] hypothesis: A man is rowing a boat	entailment
+premise: A woman is placing two eggs into a pot of water [SEP] hypothesis: A woman is putting two eggs into a pot of water	entailment
+premise: Two people are driving a jeep and a lady is sitting on the top of it [SEP] hypothesis: Two people are driving a jeep and a girl is sitting on the top of it	entailment
+premise: Someone is dropping the meat into a pan [SEP] hypothesis: The meat is being dropped into a pan	entailment
+premise: The woman is holding the paintbrush next to the artist's easel [SEP] hypothesis: The lady is holding the paintbrush next to the artist's easel	entailment
+premise: Men are sawing logs [SEP] hypothesis: Men are cutting wood	entailment
+premise: An octopus is being sliced by a woman [SEP] hypothesis: A woman is slicing an octopus	entailment
+premise: Someone is cooking okra in a pan [SEP] hypothesis: Okra is being cooked in a pan	entailment
+premise: A cupcake is being eaten by a girl [SEP] hypothesis: A girl is eating a cupcake	entailment
+premise: A black dog is running in the grass and its tongue is hanging out [SEP] hypothesis: A black dog is running in the grass	entailment
+premise: A dog is swimming in a body of water [SEP] hypothesis: An animal is swimming in a body of water	entailment
+premise: It is raining on a walking man [SEP] hypothesis: A man is walking in the rain	entailment
+premise: A man is singing and playing a guitar [SEP] hypothesis: A man is singing and playing a musical instrument	entailment
+premise: A woman is using a pencil for eyes and is applying eye liner to her eyelid [SEP] hypothesis: A woman is applying cosmetics to her eyelid	entailment
+premise: The doctors are healing a man [SEP] hypothesis: The doctor is helping the patient	entailment
+premise: A young girl in a bikini is jumping on the beach [SEP] hypothesis: A young girl in swimming suite is jumping on the beach	entailment
+premise: A man is recklessly climbing a rope [SEP] hypothesis: A man is climbing a rope	entailment
+premise: A woman, who is seated, is singing a song and playing the guitar [SEP] hypothesis: A seated woman is singing a song and playing the guitar	entailment
+premise: Swimmers are racing in a lake [SEP] hypothesis: Some racers are swimming in a lake	entailment
+premise: A girl in blue is sliding down a green slide [SEP] hypothesis: The young girl in blue is enjoying a slide	entailment
+premise: A woman is sewing with a machine [SEP] hypothesis: A woman is using a machine made for sewing	entailment
+premise: The woman is slicing cooked octopus [SEP] hypothesis: A woman is chopping up an octopus	entailment
+premise: A man and a woman are in a room painted beige, wearing dark colored shirts and a monitor is in the background [SEP] hypothesis: A man and a woman are in a beige room, wearing dark colored shirts and a monitor is in the background	entailment
+premise: A surfer is surfing a big wave [SEP] hypothesis: A surfer is surfing a huge wave	entailment
+premise: A young girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on her head [SEP] hypothesis: A little girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on the head	entailment
+premise: A small guinea pig is gnawing and eating a piece of carrot on the floor [SEP] hypothesis: A guinea pig is devouring a carrot	entailment
+premise: A man in a black jersey is standing in a gym [SEP] hypothesis: A man is standing in a gym and is wearing a jersey	entailment
+premise: A group of rollerbladers is lining up on the street [SEP] hypothesis: A group of rollerbladers is lining up on the road	entailment
+premise: Someone is strumming the guitar [SEP] hypothesis: Someone is playing the guitar	entailment
+premise: The snowboarder is doing a flip over a mound of snow [SEP] hypothesis: Somebody is jumping in the air on a board	entailment
+premise: One white dog and one black one are running side by side on the grass [SEP] hypothesis: A dog, which has a black coat, and a white dog are running on the grass	entailment
+premise: One man is riding a horse [SEP] hypothesis: A man is riding a horse	entailment
+premise: A man is climbing a rope [SEP] hypothesis: The man is climbing up a rope	entailment
+premise: A man is emptying a container made of plastic completely [SEP] hypothesis: A man is emptying a container made of plastic	entailment
+premise: The horse is being ridden by a man [SEP] hypothesis: A man is riding the horse	entailment
+premise: A group of people are standing around a sound mixing table [SEP] hypothesis: Some people is looking at sound equipment	entailment
+premise: A black and white dog is carrying a huge stick on the green grass [SEP] hypothesis: A black and white dog with a large branch is running in the field	entailment
+premise: The bunch of men are playing rugby on a field full of mud [SEP] hypothesis: Some men are playing rugby	entailment
+premise: A man is playing an electric guitar [SEP] hypothesis: A man is playing guitar	entailment
+premise: A person is scrubbing a zucchini [SEP] hypothesis: The person is scrubbing a zucchini	entailment
+premise: A chef is preparing some food [SEP] hypothesis: A chef is preparing a meal	entailment
+premise: A man is eating a banana [SEP] hypothesis: A man is eating a fruit	entailment
+premise: The man is singing and playing the guitar [SEP] hypothesis: The guitar is being played by a man	entailment
+premise: A white and tan dog is running through the tall and green grass [SEP] hypothesis: A white and tan dog is running through a field	entailment
+premise: A young girl in a blue leotard is jumping in the air [SEP] hypothesis: A young girl in a leotard colored in blue is jumping in the air	entailment
+premise: A large flute is being played by a man [SEP] hypothesis: A man is playing a flute	entailment
+premise: The person is slicing onions [SEP] hypothesis: Onions are being sliced by the person	entailment
+premise: Two boys are laying in the ocean close to the beach [SEP] hypothesis: Two boys are laying in the water close to the beach	entailment
+premise: The lady is penciling on eyeshadow [SEP] hypothesis: The woman is penciling on eyeshadow	entailment
+premise: Two white dogs are quickly running together [SEP] hypothesis: Two white dogs are running together	entailment
+premise: A man in a white shirt and sunglasses and a man in a black shirt and sunglasses are sitting at a table with four bottles of beer [SEP] hypothesis: A man in a white shirt and sunglasses and a man in a black shirt and sunglasses are sitting at a table with four beer bottles	entailment
+premise: The man is lifting barbells [SEP] hypothesis: The man is lifting weights	entailment
+premise: Some corndogs are being eaten by two toddlers who are in a wagon, which is really small [SEP] hypothesis: Two toddlers are eating corndogs in a wagon, which is really small	entailment
+premise: A man is dancing on the ceiling of a room [SEP] hypothesis: The man is dancing upside-down on the ceiling	entailment
+premise: A trick is being performed by a rollerblader on a ramp [SEP] hypothesis: A rollerblader is performing a trick on a ramp	entailment
+premise: A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of an old man with grey hair [SEP] hypothesis: A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a man with grey hair	entailment
+premise: A woman is cutting a lemon [SEP] hypothesis: A woman is cutting fruit	entailment
+premise: A man and a woman are hiking through a wooded area [SEP] hypothesis: A man and a woman are walking together through the woods	entailment
+premise: Vegetables are being put into a pot by a man [SEP] hypothesis: Someone is pouring ingredients into a pot	entailment
+premise: A group of people is equipped with protective gear [SEP] hypothesis: A group of people is equipped with gear used for protection	entailment
+premise: The man is talking on the telephone [SEP] hypothesis: The man is speaking on the telephone	entailment
+premise: A black dog and a small white and black dog are looking up at a kitchen countertop [SEP] hypothesis: A large dog and a small dog are standing next to the kitchen counter and are investigating	entailment
+premise: A big cat is opening a plastic drawer with its paws and is jumping inside [SEP] hypothesis: A cat is opening a drawer and jumping inside	entailment
+premise: The lady is picking up the kangaroo [SEP] hypothesis: The woman is picking up the kangaroo	entailment
+premise: A man in a jersey which is black is standing in a gym [SEP] hypothesis: A man in a black jersey is standing in a gym	entailment
+premise: The cat is playing passionately with a watermelon [SEP] hypothesis: A cat is playing with a watermelon	entailment
+premise: The little girl is swinging and the woman is standing behind her [SEP] hypothesis: The girl, who is little, is swinging and the woman is standing behind	entailment
+premise: A man is rock climbing, pausing and calculating the route [SEP] hypothesis: A man is rock climbing, stopping and calculating the route	entailment
+premise: A person is pouring oil for cooking into a pot [SEP] hypothesis: A person is pouring cooking oil into a pot	entailment
+premise: The milk is being drunk by a cat [SEP] hypothesis: The cat is drinking some milk	entailment
+premise: A boy is filling a pitcher with water [SEP] hypothesis: A pitcher is being filled with water by a boy	entailment
+premise: A hole is being burrowed by the badger [SEP] hypothesis: A badger is shrewdly digging the earth	entailment
+premise: Some instruments are being played by a band [SEP] hypothesis: A band is playing some instruments	entailment
+premise: Two teenage girls are wearing fancy dresses at an event [SEP] hypothesis: Two girls in their teens are wearing fancy dresses at an event	entailment
+premise: A dog is bouncing on a trampoline [SEP] hypothesis: A dog is jumping on a trampoline	entailment
+premise: One man is doing floor exercises [SEP] hypothesis: A man is doing exercises	entailment
+premise: A man is climbing a rope [SEP] hypothesis: A man is climbing up a rope	entailment
+premise: A man is fitting a silencer to a pistol [SEP] hypothesis: A man is applying a silencer to a gun	entailment
+premise: The girl, who is little, is carefully combing her hair into a pony tail [SEP] hypothesis: The girl, who is little, is combing her hair into a pony tail.	entailment
+premise: The woman is measuring the other woman [SEP] hypothesis: A woman is being measured by another woman	entailment
+premise: A large green ball is hitting a potato [SEP] hypothesis: A large green colored ball is hitting a potato	entailment
+premise: A band is playing on a stage [SEP] hypothesis: A band is playing onstage	entailment
+premise: A dog is licking a baby [SEP] hypothesis: The dog is licking the baby	entailment
+premise: A panda bear is eating some bamboo [SEP] hypothesis: Some bamboo is being eaten by a panda bear	entailment
+premise: A person is peeling a potato [SEP] hypothesis: A potato is being peeled by a person	entailment
+premise: Two dogs are playing by a tree [SEP] hypothesis: Two dogs are playing by a plant	entailment
+premise: A young mother is playing with her boy in the park [SEP] hypothesis: A young boy is playing in the park with his mother	entailment

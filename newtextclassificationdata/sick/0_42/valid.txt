@@ -1,0 +1,48 @@
+premise: The small child is wading through the water and is being guided by another person [SEP] hypothesis: A young child is splashing in the water	neutral
+premise: A child, who has blond hair, is holding a yellow bottle [SEP] hypothesis: A boy in a blue shirt has dirt on his face	neutral
+premise: A black and white dog is playing with a frisbee in a brown field [SEP] hypothesis: A black and white dog is playing with a broken volleyball	neutral
+premise: There is no person riding a bike [SEP] hypothesis: A bike rider in a black and red uniform is standing on a dirt bike	neutral
+premise: Two dogs are playing on a beach made of rocks [SEP] hypothesis: A black dog is approaching a golden dog on pebbly beach	neutral
+premise: Some cats are playing with each other [SEP] hypothesis: Two cats are fighting each other	neutral
+premise: A brown dog is staring attentively at a brown and white dog [SEP] hypothesis: The little dog is grabbing the bedroom slipper with its mouth funnily	neutral
+premise: A black dog in the snow is jumping off the ground and catching a stick [SEP] hypothesis: There is no dog jumping for a Frisbee in the snow	neutral
+premise: A woman on a rock is lying on a blanket and reading a book [SEP] hypothesis: A woman, who is seated, is singing a song and playing the guitar	neutral
+premise: The person is practicing the guitar [SEP] hypothesis: The guitar is being sold by a lady	neutral
+premise: A white dog is standing in a lake [SEP] hypothesis: A brown dog is standing in a lake	neutral
+premise: Two toddlers are sleeping in a wagon, which is really small [SEP] hypothesis: Two toddlers are eating corndogs in a wagon, which is really small	neutral
+premise: A man is chopping down a tree with an axe [SEP] hypothesis: A person is planting a tree	neutral
+premise: A man in a purple suit is standing by a purple case and is playing a guitar [SEP] hypothesis: The man is putting away the guitar in the guitar case	neutral
+premise: An adult is in the amphitheater and is talking to a boy [SEP] hypothesis: The man is standing outdoor and the boy is falling over the bottom of the stairs	neutral
+premise: A homeless man is holding up a sign and is begging for money [SEP] hypothesis: A man in a small city is doing charity work	neutral
+premise: The little boy is wearing a yellow tank top and is laughing [SEP] hypothesis: A little boy is wearing a yellow tank top and is laughing	entailment
+premise: Some sticky goo is being pulled out of a bowl by a woman [SEP] hypothesis: A woman is pulling some sticky goo out of a bowl	entailment
+premise: The little boy is riding a bicycle in a race [SEP] hypothesis: A bicycle is being ridden by the little boy in a race	entailment
+premise: A tiger is walking around with no aim [SEP] hypothesis: A tiger is walking around aimlessly	entailment
+premise: A man is playing the guitar [SEP] hypothesis: A guitar is being played by a man	entailment
+premise: People are sitting against a wall [SEP] hypothesis: People are sitting near a wall	entailment
+premise: Four kids are doing backbends in the park [SEP] hypothesis: Four children are doing backbends in the park	entailment
+premise: A person in a pink jacket is running onto the field [SEP] hypothesis: A person in pink is running onto the field	entailment
+premise: A man is riding a horse in the desert [SEP] hypothesis: A horse is being ridden by a guy	entailment
+premise: The man is going into the water [SEP] hypothesis: The person is going into the water	entailment
+premise: Paper is being cut with scissors [SEP] hypothesis: The piece of paper is being cut	entailment
+premise: A woman who is wearing a pink boa is riding a bicycle down a bridge built for pedestrians [SEP] hypothesis: A woman who is wearing a pink scarf is riding a bike down a bridge built for pedestrians	entailment
+premise: A man is walking in a yard [SEP] hypothesis: A man is walking outside	entailment
+premise: The piece of paper is being cut [SEP] hypothesis: Some paper is being cut	entailment
+premise: The lion is pacing tiredly in the pen [SEP] hypothesis: A lion is slowly walking	entailment
+premise: A woman is adding ingredients to a big bowl [SEP] hypothesis: A woman is adding ingredients to a bowl	entailment
+premise: The woman is slicing herbs [SEP] hypothesis: The woman is not slicing herbs	contradiction
+premise: Four dogs are playing in a grassy area [SEP] hypothesis: Four dogs are not playing in a grassy area	contradiction
+premise: Two men are fighting in a cow pasture [SEP] hypothesis: Nobody is fighting in a cow pasture	contradiction
+premise: The man isn't playing the piano [SEP] hypothesis: The man is playing a piano	contradiction
+premise: A cold cyclist is celebrating [SEP] hypothesis: There is no cold cyclist celebrating	contradiction
+premise: A cyclist is biking in a snowy forest at day [SEP] hypothesis: A cyclist is biking in a snowy forest at night	contradiction
+premise: Dogs are racing on a track [SEP] hypothesis: There is no dog racing on a track	contradiction
+premise: There is no man cutting onions [SEP] hypothesis: A man is cutting onions	contradiction
+premise: A woman is not talking on a telephone [SEP] hypothesis: A woman is talking on a telephone	contradiction
+premise: A cheetah is chasing its prey across a field [SEP] hypothesis: There is no cheetah quickly running behind its prey	contradiction
+premise: A man is playing guitar [SEP] hypothesis: There is no man playing a guitar	contradiction
+premise: A person on a bike is not in the air near a body of water [SEP] hypothesis: A person on a bike is in the air near a body of water	contradiction
+premise: There is no man with a hard hat dancing [SEP] hypothesis: A man with a hard hat is dancing	contradiction
+premise: A boy is checking a calendar [SEP] hypothesis: There is no boy checking a calendar	contradiction
+premise: There is no man cutting a rope with a sword [SEP] hypothesis: A man is cutting a rope with a sword	contradiction
+premise: Nobody is playing the guitar and singing [SEP] hypothesis: The woman is playing a guitar, which is acoustic, and singing	contradiction

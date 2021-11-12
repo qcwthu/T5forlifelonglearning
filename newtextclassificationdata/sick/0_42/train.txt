@@ -1,0 +1,48 @@
+premise: An onion is being sliced by the woman [SEP] hypothesis: A man is slicing a carrot with a knife	neutral
+premise: A man without a shirt is posing with the arms spread next to a woman [SEP] hypothesis: A shirtless woman is posing with a girl who is hiking in a park	neutral
+premise: A soccer player is sitting on the field and is drinking water [SEP] hypothesis: A woman is sitting on the grass and is drinking from a water bottle	neutral
+premise: There is no large group of cheerleaders walking in a parade [SEP] hypothesis: The cheerleaders are parading and wearing black, pink and white uniforms	neutral
+premise: A woman is drying noodles [SEP] hypothesis: A person is boiling noodles	neutral
+premise: Three Asian kids are dancing and a man is looking [SEP] hypothesis: An Asian man is dancing and three kids are looking	neutral
+premise: A man is sprinkling seasoning on several sliced and buttered loaves of bread [SEP] hypothesis: A man is removing the garlic from some slices of bread	neutral
+premise: A topless woman is being smeared with brown substance and a nobody is in the background [SEP] hypothesis: A topless woman is being covered in mud	neutral
+premise: A man is reading an email [SEP] hypothesis: A person is peeling a banana	neutral
+premise: The family is posing by a mantel and a Christmas tree [SEP] hypothesis: A happy family is posing by the fireplace	neutral
+premise: A child is playing slip and slide in the grass [SEP] hypothesis: A child is splashing in a pool for children and other children are playing in the background	neutral
+premise: A person in a blue jacket is jumping off of a tall cement wall [SEP] hypothesis: The man is not performing a large jump	neutral
+premise: A man is getting a garage for the car [SEP] hypothesis: A man is getting into a car	neutral
+premise: Two men are talking [SEP] hypothesis: Two men are playing guitar	neutral
+premise: There is no man riding a horse [SEP] hypothesis: The person is riding the horse	neutral
+premise: A white rally car is throwing mud into the air and is approaching a bend in the track [SEP] hypothesis: A black rally car is throwing mud into the air and is approaching a bend in the track	neutral
+premise: The brown dog is running in the snow [SEP] hypothesis: A dog is running through the snow	entailment
+premise: A boy is checking a calendar [SEP] hypothesis: A boy is looking at a calendar	entailment
+premise: A man is slicing onions [SEP] hypothesis: A man is cutting onions	entailment
+premise: A race car driver is standing up and is fiercely pointing his hand at the sky [SEP] hypothesis: A race car driver is standing up and pointing his hand at the sky	entailment
+premise: A man is cutting a box [SEP] hypothesis: A box is being cut by a man	entailment
+premise: The oriental lady is cutting a carrot into pieces that are thin [SEP] hypothesis: A woman is slicing a carrot	entailment
+premise: The man is cleaning the drawing on the board [SEP] hypothesis: The man is erasing the drawing on the board	entailment
+premise: The black and white dog is running and a person stands behind it [SEP] hypothesis: The dog, which is black and white, is running and a person stands behind it	entailment
+premise: The man is absently eating a banana by a tree [SEP] hypothesis: A man is eating a banana	entailment
+premise: A cat is playing with a watermelon [SEP] hypothesis: One cat is playing with a watermelon	entailment
+premise: A policeman is sitting tiredly on a motorcycle [SEP] hypothesis: A policeman is sitting on a motorcycle	entailment
+premise: A paper plate is being cut by a man [SEP] hypothesis: A man is cutting a paper plate	entailment
+premise: A man is riding a motorcycle [SEP] hypothesis: A motorcycle is being ridden by a man	entailment
+premise: The blonde girl with the pink top is smiling and wearing funny glasses with a large nose attached [SEP] hypothesis: A little girl is smiling and wearing a fake nose and glasses	entailment
+premise: Two people are standing in the ocean and looking at the sunset [SEP] hypothesis: Two people are wading through the water	entailment
+premise: Two people wearing helmets are riding over the yellow and white flowers [SEP] hypothesis: Two people wearing helmets are driving over the yellow and white flowers	entailment
+premise: A man is shaking a container over a sink in the kitchen [SEP] hypothesis: There is no man shaking a container over a sink in the kitchen	contradiction
+premise: There is no man playing a guitar [SEP] hypothesis: A man is singing and playing a guitar	contradiction
+premise: The person is riding the horse [SEP] hypothesis: The person is not riding the horse	contradiction
+premise: A dog is not running towards a ball [SEP] hypothesis: A dog is running through a field and is chasing a ball	contradiction
+premise: The man isn't doing a magic trick [SEP] hypothesis: The man is doing a magic trick	contradiction
+premise: A man is standing in the middle of a gym and is wearing a jersey [SEP] hypothesis: There is no man standing in the middle of a gym and is wearing a jersey	contradiction
+premise: Someone is cleaning an animal [SEP] hypothesis: Someone is dirtying an animal	contradiction
+premise: The motorcycle racer is riding a red and black bike [SEP] hypothesis: No motorcycle racer is riding a red and black bike	contradiction
+premise: A man is chopping a log with an axe [SEP] hypothesis: There is no man chopping a log with an axe	contradiction
+premise: The lady is cracking an egg for the mixer [SEP] hypothesis: The lady isn't cracking an egg for the mixer	contradiction
+premise: A woman is not slicing a cucumber [SEP] hypothesis: A woman is slicing a cucumber	contradiction
+premise: A jet is not flying [SEP] hypothesis: A jet is flying	contradiction
+premise: Nobody is playing with a toad [SEP] hypothesis: Someone is playing with a toad	contradiction
+premise: A brown dog is jumping in the air [SEP] hypothesis: There is no brown dog jumping in the air	contradiction
+premise: There is no person playing a piano [SEP] hypothesis: A person is playing a piano	contradiction
+premise: A lady is standing on the street and is surrounded by school children [SEP] hypothesis: No lady is standing on the street and is surrounded by school children	contradiction

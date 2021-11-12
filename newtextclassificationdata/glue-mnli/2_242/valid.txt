@@ -1,0 +1,48 @@
+premise: so what kind of garden do you have [SEP] hypothesis: What type of garden are you growing?	entailment
+premise: especially if they're found guilty of the crime [SEP] hypothesis: Specifically, if they are found guilty.  	entailment
+premise: Kentucky advocates and Medicaid officials suggest such alternatives as buying a prepaid burial, paying premiums in advance on Medicare supplement health-insurance policy or paying outstanding medical bills. [SEP] hypothesis: Prepaid burials are a suggestion made by Kentucky advocates.	entailment
+premise: 'Unlikely. [SEP] hypothesis: That is not likely to be true.	entailment
+premise: If so, I'd suggest he attend a future race and talk to some of his section-mates. [SEP] hypothesis: I think he should come to a race later on.	entailment
+premise: He belongs to Senor Kirby who stands there with him."  [SEP] hypothesis: He's the property of that man there.	entailment
+premise: Stanley Market is located on Hong Kong's southern coast, and is well-known for all kinds of clothing, including silk and cashmere. [SEP] hypothesis: Stanley Market is well known for all different types of clothing.	entailment
+premise: To help ensure that the standards continue to meet the needs of the audit community and the public it serves, the Comptroller General of the United States appointed the Advisory Council on Government Auditing Standards to review the standards and recommend necessary changes. [SEP] hypothesis: The Advisory Council is tasked with reviewing the standards and changing them.	entailment
+premise: 19 In FY 1998, the Postal Service processed 15 billion handwritten addresses. [SEP] hypothesis: The Postal Service processed 15 billion handwritten pieces of mail.	entailment
+premise: it's easy you said the magic word there drugs [SEP] hypothesis: It's not hard, you said drugs was the magic word. 	entailment
+premise: we're having sleet and rain in Indiana this morning so [SEP] hypothesis: This morning we had sleet and rain.	entailment
+premise: With my poor Emily not yet buried, can you wonder I was anxious that no more lying rumours should be started. [SEP] hypothesis: I was trying to protect the dignity and reputation of my poor wife, Emily, from unfounded gossip. 	entailment
+premise: Our national saving trend analysis is based on current NIPA definitions of saving and investment. [SEP] hypothesis: NIPA gives definitions of investment and saving.	entailment
+premise: They hardly budge if you touch them. [SEP] hypothesis: They don't move, even if prodded.	entailment
+premise: Thus, economic growth depends not only on the amount of saving and investment but also on an educated work force, an expanding base of knowledge, a continuing infusion of innovations, and a sound legal and institutional environment. [SEP] hypothesis: Economic growth depends on how much you save and invest.	entailment
+premise: This massively delayed planning and bill-writing, a traffic jam that still has not cleared. [SEP] hypothesis: Planning and bill-writing are still considered a problem. 	entailment
+premise: Not a doubt of it. [SEP] hypothesis: I doubt it.	contradiction
+premise: uh-huh uh-huh oh for heaven's sake what a cheapskate [SEP] hypothesis: That person will spend money under any circumstances.	contradiction
+premise: The Kentuckian met those dark eyes squarely, his first unvoiced protest stiffening into defiance. [SEP] hypothesis: The person from Kentucky lowered his eyes and offered no protest.	contradiction
+premise: In use since Roman times, today the salt pans are the source of 18,000 metric tons (20,000 tons) of salt a year. [SEP] hypothesis: Salt pans have only been in use since Medieval times.	contradiction
+premise: I MAY decide to pay for the witty articles and intelligent social commentary in Slate when you start charging. [SEP] hypothesis: I will absolutely not pay when you start charging. 	contradiction
+premise: Indeed, if a movie is in color, in focus, and indoors, it was likely to have been praised by the New York Times ' departing Janet Maslin. [SEP] hypothesis: No, if a movie is indoors, in focus, and in color, then Janet Maslin would certainly not praise it.	contradiction
+premise: Recent legislative language adopted by the House Committee on Government Reform suggests elevating the undersecretary for management to a deputy secretary, equivalent to the deputy position provided for in the Administration's proposal. [SEP] hypothesis: The House Committee does not get to reform the Government.	contradiction
+premise: That man, Danvers, was shadowed on the way over, wasn't he?  [SEP] hypothesis: Danvers lacked a shadow on the way over.	contradiction
+premise: The mountains are blanketed with thick, verdant forests watered by regular tropical downpours from the heavy clouds that surround the high peaks. [SEP] hypothesis: The mountains are nothing but bare rock and snow.	contradiction
+premise: um we there's not that much call to for Bombay's [SEP] hypothesis: Floor is lava.	contradiction
+premise: uh i think i really don't have a vision [SEP] hypothesis: I have a vision to be able to provide equality for all.	contradiction
+premise: well i let's hope it well it if it's the same as what we had at least it'll be warmer [SEP] hypothesis: Let's hope we don't get the same a you. 	contradiction
+premise: About 22,000 employers were identified as hard core discriminators. [SEP] hypothesis: Only about 50 employers were found to be discriminators.	contradiction
+premise: A half-century ago, a president could drive through city streets in a normal car with a few bodyguards, and anyone could stroll up to the front door of the White House. [SEP] hypothesis: The president can currently drive with no bodyguards.	contradiction
+premise:  Adrin turned and smiled at Jon. [SEP] hypothesis: Both men growled angrily at each other.	contradiction
+premise: A speck appeared and came hurtling down. [SEP] hypothesis: Nothing indicated the cause for such a thing to hurl downwards.	contradiction
+premise: At least it gives the film a surprise ending. [SEP] hypothesis: The film is boring up until the end scene.	neutral
+premise: Does DeFabrizio believe his documentary will help convince people of the need for the kind of help offered by Legal Services? [SEP] hypothesis: De Fabrizio wants to convince people to get help.	neutral
+premise: The frescoes are all in the parecclesion, which stretches the length of the building and was used in Byzantine times as a funerary chapel. [SEP] hypothesis: Many solemn and important funerals took place in the parecclesion over the years.	neutral
+premise: The Report quoted the following testimony from the Western Growers  [SEP] hypothesis: The Report presented new information that had previously been unconsidered.	neutral
+premise: um some some later proof sets because they have a slight error in them are are worth hundreds of dollars you know and and the coins themselves aren't worth very much at all face value basically [SEP] hypothesis: They became collectables overnight.	neutral
+premise:  VI  Red and Slim had trailed their elders with the experience of youth, aided by the absorption and anxiety of their fathers. [SEP] hypothesis: The elders had a lot to teach Red and Slim.	neutral
+premise: Research Priorities for Airborne Particulate  Immediate Priorities and a Long-Range Research Portfolio. [SEP] hypothesis: The priorities are very high in importance.	neutral
+premise: uh i really don't know um [SEP] hypothesis: I don't really know if he is busy	neutral
+premise: 'Why does it have to be my mind?' [SEP] hypothesis: Why is my mind the one to fade?	neutral
+premise: um mostly what i do i do do some crafts like it mentioned in the thing and then i i read a lot [SEP] hypothesis: Reading is a fun thing to do.	neutral
+premise: so but that's also about the time you start getting cabin fever [SEP] hypothesis: It's hard to be civil when you're stuck in one place with another person.	neutral
+premise: I am 18 years old and face a serious problem. [SEP] hypothesis: I am eighteen years old and I face a serious acne problem. 	neutral
+premise: I'll come anywhere. [SEP] hypothesis: I'm not able to but I'll come anywhere you'd like.	neutral
+premise: Helpful. [SEP] hypothesis: These drugs are really helpful.	neutral
+premise: okay let's get started [SEP] hypothesis: Let's start rowing the boat. 	neutral
+premise: You can, however, get a peek into the good life at Hotel Bel Air's restaurant, lounge, and gardens (701 Stone Canyon Road), where celebs often linger. [SEP] hypothesis: You can almost always spot a celebrity there.	neutral

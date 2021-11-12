@@ -1,0 +1,48 @@
+premise: A man is quickly chopping some mushrooms with a knife [SEP] hypothesis: A person is quickly chopping mushrooms with a knife	entailment
+premise: The plane is landing [SEP] hypothesis: A plane is landing	entailment
+premise: A man in a red uniform is swiftly making a jump in a dirt bike race [SEP] hypothesis: A man in a red uniform is making a jump in a dirt bike race	entailment
+premise: A boy is playing a guitar [SEP] hypothesis: A boy is playing an instrument	entailment
+premise: A man is leaning against a pole and is surrounded by people [SEP] hypothesis: A man is leaning against a pole and is surrounded	entailment
+premise: A yellow dog is running on white snow on a sunny day [SEP] hypothesis: A dog, which is tan, is running through the snow	entailment
+premise: A dog, which is black, and a white one are staring at each other in the street [SEP] hypothesis: A dog, which is black, and another one, which is white, are staring at each other in the street	entailment
+premise: Some ferrets are climbing down from a shelf [SEP] hypothesis: Ferrets are climbing down from a shelf	entailment
+premise: Two children are rolling in dirty water [SEP] hypothesis: Two children are rolling in muddy water	entailment
+premise: A group of boys is playing soccer on the seashore [SEP] hypothesis: A group of boys is playing soccer on the beach	entailment
+premise: A man is jumping into a pool [SEP] hypothesis: A man is diving into a pool	entailment
+premise: A dog is chasing a ball in the grass [SEP] hypothesis: A ball is being chased by a dog on the grass	entailment
+premise: A child in orange is playing outdoors with a snowball [SEP] hypothesis: A kid in orange is playing outside with a snowball	entailment
+premise: The man is riding a horse [SEP] hypothesis: A man is riding a horse	entailment
+premise: A man is skiing down a hill and over a red obstacle [SEP] hypothesis: A man is skiing down a hill and jumping a red obstacle	entailment
+premise: The snowboarder is jumping off the snow [SEP] hypothesis: A snowboarder is jumping off the snow	entailment
+premise: Children are playing in a fountain that is spraying water from the ground [SEP] hypothesis: Animals are playing in fountains that spray water from the ground	neutral
+premise: The person is not going into the water [SEP] hypothesis: The man is going into the water	neutral
+premise: The man is cutting the tape on the box [SEP] hypothesis: There is no man cutting a box	neutral
+premise: A man is shaking a drink [SEP] hypothesis: A man is mowing a lawn	neutral
+premise: A large white crane is flying far above the water [SEP] hypothesis: A white bird is landing swiftly in the water	neutral
+premise: A young occidental girl is standing above the crowd and is playing with a pinwheel [SEP] hypothesis: A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a man with grey hair	neutral
+premise: A boy wearing a striped shirt is running barefoot on the sandy hill [SEP] hypothesis: A girl wearing a striped shirt is running barefoot on the sandy hill	neutral
+premise: A woman is cutting broccoli [SEP] hypothesis: A man is cutting tomatoes	neutral
+premise: The horse is being ridden by a man [SEP] hypothesis: A man is parking a motorbike	neutral
+premise: Four boys are kneeling next to each other in front of a ball [SEP] hypothesis: The young boys are not posing with a green soccer ball in a park	neutral
+premise: A dog is licking a baby [SEP] hypothesis: A baby is licking a dog	neutral
+premise: A large white crane is flying near the water [SEP] hypothesis: A white bird is swiftly taking off from the water	neutral
+premise: There is no man spraying a super soaker into the mouth of a dog [SEP] hypothesis: A person is chopping an onion	neutral
+premise: A man in a white hat is touching a cardboard box [SEP] hypothesis: A man in a black hat is reaching for a box	neutral
+premise: The kitten is eagerly drinking some milk from the bowl [SEP] hypothesis: One small child is greedily drinking water from the cup	neutral
+premise: A dog is being teased by a monkey at the zoo [SEP] hypothesis: A monkey is pulling a dog's tail	neutral
+premise: A person is not chopping an onion [SEP] hypothesis: A person is chopping an onion	contradiction
+premise: Nobody is rinsing a steak with water [SEP] hypothesis: A man is rinsing a large steak	contradiction
+premise: There is no monkey teasing a dog at the zoo [SEP] hypothesis: A monkey is pulling a dog's tail	contradiction
+premise: A black bird is taking flight from a dead tree [SEP] hypothesis: The black bird is sitting in a leafless tree	contradiction
+premise: The black dog is walking along a tree trunk bridge over water [SEP] hypothesis: There is no dog crossing a river on a bridge made from a fallen tree	contradiction
+premise: Two dogs of different breeds are looking at each other across a street [SEP] hypothesis: There are no dogs of different breeds looking at each other across a street	contradiction
+premise: Someone is slicing a tomato [SEP] hypothesis: Nobody is slicing a tomato	contradiction
+premise: A man is slicing a potato [SEP] hypothesis: There is no man slicing a potato	contradiction
+premise: The man is eating cereal [SEP] hypothesis: There is no man eating a bowl of cereal	contradiction
+premise: A man is playing the guitar [SEP] hypothesis: Nobody is playing the guitar	contradiction
+premise: A child in a green and white sports uniform is resting on the grass [SEP] hypothesis: A child in a green and white sports uniform is running over the grass	contradiction
+premise: A group of friends are riding the current in a raft [SEP] hypothesis: A group is not riding the current in a raft	contradiction
+premise: There is no woman frying something [SEP] hypothesis: A woman is frying something	contradiction
+premise: The cat perched on the table isn't looking out the window [SEP] hypothesis: The cat perched on the table is looking out the window	contradiction
+premise: The woman is not dicing garlic [SEP] hypothesis: The woman is dicing garlic	contradiction
+premise: The small child is wading through the water and is being guided by another person [SEP] hypothesis: The small child is not wading through the water and is not being guided by another person	contradiction

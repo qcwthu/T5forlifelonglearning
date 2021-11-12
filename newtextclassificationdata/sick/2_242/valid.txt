@@ -1,0 +1,48 @@
+premise: Two children and an adult are standing next to a tree limb [SEP] hypothesis: Two children are climbing a tree	neutral
+premise: A dog is jumping high into the air in the country [SEP] hypothesis: A dog is jumping in the shade of some trees	neutral
+premise: The animal with big eyes is voraciously eating [SEP] hypothesis: A lemur is eating	neutral
+premise: A big brown and white spotted dog is lying on a jacket on the street [SEP] hypothesis: A small brown and white spotted dog is lying on a jacket on the street	neutral
+premise: A few animals are playing in the water [SEP] hypothesis: Nobody is playing ping pong	neutral
+premise: Two men are holding fishing poles [SEP] hypothesis: Two men are standing near the water and are holding tools used for fishing	neutral
+premise: A dog has its head outside a red and green gift bag [SEP] hypothesis: The red and brown dog is digging its nose inside a holiday gift bag	neutral
+premise: Some fish are swimming [SEP] hypothesis: The fish are immobile	neutral
+premise: The black and white dog is running and a person stands behind it [SEP] hypothesis: A little dog is slowing down and the owner is quitting chasing it	neutral
+premise: A woman is marching with a pair of dogs [SEP] hypothesis: A woman is showing a dog with very short hair at a dog show	neutral
+premise: A white bird is landing swiftly in the water [SEP] hypothesis: A crane, which is large and white, is flying near the water	neutral
+premise: A man is rock climbing, stopping and calculating the route [SEP] hypothesis: A man is rock climbing and a city and a bay are in the background	neutral
+premise: A baby is sneezing and scaring another baby [SEP] hypothesis: A young child with black hair is deleting a picture from the camera	neutral
+premise: A child, who looks young, is standing in front of some trees [SEP] hypothesis: A small boy is standing in the forest	neutral
+premise: A fish is being sliced by a man [SEP] hypothesis: A cat is jumping into a box	neutral
+premise: Three people are walking across a rope and wood bridge over a river [SEP] hypothesis: People are not walking across a rope bridge over a rocky stream	neutral
+premise: The woman in a red costume is leaning against a wall made of bricks and playing an instrument [SEP] hypothesis: A woman in a red dress is playing an instrument	entailment
+premise: A man is putting vegetables into a pot [SEP] hypothesis: Someone is adding ingredients to a pot	entailment
+premise: A young woman is getting a tattoo on her hand [SEP] hypothesis: A girl is getting a tattoo on her hand	entailment
+premise: A boy is fearfully walking across a bridge [SEP] hypothesis: A boy is walking across a bridge	entailment
+premise: The woman is picking up a kangaroo that is little [SEP] hypothesis: The woman is picking up the kangaroo	entailment
+premise: Broccoli are being cut by a woman [SEP] hypothesis: A woman is cutting broccoli	entailment
+premise: A tiger is walking around with no aim [SEP] hypothesis: A tiger is walking around aimlessly	entailment
+premise: A brown dog is running through a snowy trail [SEP] hypothesis: A dog is running on a snowy path	entailment
+premise: The group of people is sitting on a ledge which is rocky and a scenic view is behind them [SEP] hypothesis: The group of people is sitting on a rocky ledge and a scenic view is behind them	entailment
+premise: A snake is being fed a mouse by a man [SEP] hypothesis: One man is feeding a mouse to the snake	entailment
+premise: A distant person with a blue backpack is hiking in rocky area [SEP] hypothesis: The person is walking	entailment
+premise: The man is funnily playing the piano with his nose [SEP] hypothesis: The man is playing the piano with his nose	entailment
+premise: A woman and three men are posing motionlessly for a photo [SEP] hypothesis: Three men and a woman are posing for a picture	entailment
+premise: A woman is slicing an onion [SEP] hypothesis: An onion is being sliced by a woman	entailment
+premise: A woman is putting make-up on [SEP] hypothesis: The woman is putting make-up on	entailment
+premise: Someone is banging the lens of a camera against a nail [SEP] hypothesis: Someone is banging a camera lens against a nail	entailment
+premise: A dog is looking around [SEP] hypothesis: There is no dog looking around	contradiction
+premise: There is no person boiling noodles [SEP] hypothesis: A woman is boiling noodles in water	contradiction
+premise: A man is playing guitar [SEP] hypothesis: There is no man playing a guitar	contradiction
+premise: There is no dog playing with a red ball [SEP] hypothesis: Two daschunds are playing with a red ball	contradiction
+premise: There is no tan skinned child looking at the camera [SEP] hypothesis: A tan skinned child is looking at the camera	contradiction
+premise: No dog is emerging from a lake [SEP] hypothesis: A dog is emerging from a lake	contradiction
+premise: A person is boiling noodles [SEP] hypothesis: There is no person boiling noodles	contradiction
+premise: Two children are not playing in the surf [SEP] hypothesis: Two children are playing in the surf	contradiction
+premise: A panda bear is eating some bamboo [SEP] hypothesis: The panda is not eating bamboo	contradiction
+premise: No people are riding camels at the beach [SEP] hypothesis: People are riding two camels at the beach	contradiction
+premise: A dog is not running towards a ball [SEP] hypothesis: A dog is running towards a ball	contradiction
+premise: There is no man patting an alligator on the mouth [SEP] hypothesis: A man is patting an alligator on the mouth	contradiction
+premise: There is no woman cooking a breaded pork chop [SEP] hypothesis: A woman is cooking a breaded pork chop	contradiction
+premise: The men are fist fighting in a ring [SEP] hypothesis: Nobody is fist fighting in a ring	contradiction
+premise: There is no person cutting an onion [SEP] hypothesis: A person is cutting an onion	contradiction
+premise: The girl in the blue and white uniform isn't cheering [SEP] hypothesis: The girl in the blue and white uniform is cheering	contradiction

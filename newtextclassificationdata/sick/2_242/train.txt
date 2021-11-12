@@ -1,0 +1,48 @@
+premise: Three people are driving four wheel ATVs in a street [SEP] hypothesis: Three people are driving four wheel ATVs in a field	neutral
+premise: A white cat perched on a small wooden cabinet is looking outside the window [SEP] hypothesis: The cat perched on the table is looking out the window	neutral
+premise: The bride and the groom are arriving after the wedding [SEP] hypothesis: The bride and the groom are leaving after the wedding	neutral
+premise: The children of a family are playing and waiting [SEP] hypothesis: Three Asian kids are dancing and a serious man is looking	neutral
+premise: A brown dog is running through a snowy trail [SEP] hypothesis: A white dog is running through a snowy trail	neutral
+premise: A dog next to a tree, which is probably a pine, is biting a bucket [SEP] hypothesis: There is no dog which is furry and black in a back yard carrying a basket in its mouth.	neutral
+premise: A child is playfully swimming underwater in a pool [SEP] hypothesis: A child is smiling at the camera and swimming underwater	neutral
+premise: A girl is tapping her fingernails [SEP] hypothesis: A boy is tapping his fingernails	neutral
+premise: The person is riding a motorbike on a sandy track [SEP] hypothesis: A man is lifting barbells	neutral
+premise: A large, gray ball is hitting a running dog, which is carrying some grass in its mouth [SEP] hypothesis: A large dog is running on the grass with a tennis ball in its mouth	neutral
+premise: There is no veteran showing things from a war to some people [SEP] hypothesis: A large man is sitting in a military accessories store	neutral
+premise: A woman is wearing an Egyptian hat on her head [SEP] hypothesis: The woman is wearing glasses and a black headdress	neutral
+premise: A family is watching a little boy who is hitting a baseball [SEP] hypothesis: A family is watching a little boy who is missing a baseball	neutral
+premise: The person is playing the flute [SEP] hypothesis: A man is playing the guitar	neutral
+premise: A lady is surfing and riding a wave [SEP] hypothesis: A boy is surfing and riding a wave	neutral
+premise: The people are standing at a parade [SEP] hypothesis: A white bird is landing swiftly in the water	neutral
+premise: A bee is clinging to a yellow flower [SEP] hypothesis: A yellow flower is being clung to by a bee	entailment
+premise: Three children are running down a hillside covered by grass [SEP] hypothesis: Three children are running down hill	entailment
+premise: A bunch of boys are playing with a ball in front of a large door made of wood [SEP] hypothesis: The children are playing in front of a large door	entailment
+premise: A chubby faced boy is wearing sunglasses [SEP] hypothesis: Sunglasses are being worn by a boy	entailment
+premise: An airplane is taking off [SEP] hypothesis: An aircraft is taking off	entailment
+premise: The men are carefully putting suitcases into the trunk of a car [SEP] hypothesis: The men are putting suitcases into the trunk of a car	entailment
+premise: The boy, who is young, is running through the ocean waves [SEP] hypothesis: A child is running in and out of the ocean waves	entailment
+premise: One man is sitting steadily on the chair [SEP] hypothesis: One man is sitting on the chair	entailment
+premise: A woman is swiftly snowboarding down an incline and another woman is standing behind her [SEP] hypothesis: A woman is snowboarding down an incline and another woman is standing behind her	entailment
+premise: A shirtless man is escorting a horse that is pulling a carriage along a paved road [SEP] hypothesis: A shirtless man is leading a carriage that is being pulled by a horse	entailment
+premise: A man is cutting an onion [SEP] hypothesis: An onion is being cut by a man	entailment
+premise: A man is playing an electronic keyboard [SEP] hypothesis: An electronic keyboard is being played by a man	entailment
+premise: People are playing cricket [SEP] hypothesis: Some people are playing cricket	entailment
+premise: The little boy is wearing a yellow tank top and is laughing [SEP] hypothesis: A little boy is wearing a yellow tank top and is laughing	entailment
+premise: The black dog is walking along a tree trunk bridge over water [SEP] hypothesis: A tree is falling over a bridge made over the river which a dog is crossing	entailment
+premise: A dog is running on the beach and chasing a ball [SEP] hypothesis: A dog is running on the sand and chasing a ball	entailment
+premise: A man is diving off a cliff [SEP] hypothesis: There is no man diving off a cliff	contradiction
+premise: The man in a cowboy hat is walking through a market and is putting a hand in his pocket [SEP] hypothesis: The man in a cowboy hat is not walking through a market and is not putting a hand in his pocket	contradiction
+premise: A little boy is sticking his tongue out for the camera and another boy is looking on [SEP] hypothesis: A little boy is sticking his tongue out for the camera and another boy is not looking	contradiction
+premise: A little dog is running on the sand [SEP] hypothesis: No little dog is running on the sand	contradiction
+premise: The orange rescue boat is not rushing across the water [SEP] hypothesis: The orange rescue boat is rushing across the water	contradiction
+premise: There is no panda climbing [SEP] hypothesis: A panda is climbing	contradiction
+premise: There is no man playing guitar next to a drummer [SEP] hypothesis: A man is playing guitar next to a drummer	contradiction
+premise: The woman is picking up the kangaroo [SEP] hypothesis: The kangaroo is picking up the woman	contradiction
+premise: The lady is peeling the potato [SEP] hypothesis: A woman is not peeling a potato	contradiction
+premise: A man is slicing a potato [SEP] hypothesis: There is no man cutting a potato	contradiction
+premise: A small guinea pig is gnawing and eating a piece of carrot on the floor [SEP] hypothesis: There is no small guinea pig gnawing and eating a piece of carrot on the floor	contradiction
+premise: A dog is crossing a river on a bridge made from a fallen tree [SEP] hypothesis: There is no dog crossing a river on a bridge made from a fallen tree	contradiction
+premise: There is no woman cooking a breaded pork chop [SEP] hypothesis: The woman is frying a breaded pork chop	contradiction
+premise: A kitten is drinking fresh milk [SEP] hypothesis: There is no milk being drunk by a cat	contradiction
+premise: Some bikers are getting airborne on a track near water and a skyline [SEP] hypothesis: Some bikers are not getting airborne on a track near water and a skyline	contradiction
+premise: The man is operating a stenograph [SEP] hypothesis: The man isn't operating a stenograph	contradiction

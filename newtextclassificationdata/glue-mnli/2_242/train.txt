@@ -1,0 +1,48 @@
+premise: That wouldn't be true today. [SEP] hypothesis: Today that would not be true. 	entailment
+premise: I think you've given him too much, Tommy, said Tuppence innocently. [SEP] hypothesis: Tuppence sheepishly suggested that Tommy had handed over too much.	entailment
+premise: Surely all this can be overcome. [SEP] hypothesis: We can get over this problem.	entailment
+premise: But aside from primitive prescriptions such as cut prices and nationalize the banks, the opposition has no coherent economic program. [SEP] hypothesis: The opposition doesn't have ideas to improve the economy.	entailment
+premise: These organizations recognize that stakeholders will have a lot to say in determining whether their programs succeed or fail. [SEP] hypothesis: These organizations have stakeholders that have a lot of say.	entailment
+premise: For a split second, his mind screamed in panic as he realized he could not even pronounce the needed words. [SEP] hypothesis: He panicked for a moment when he realized he couldn't say the words.	entailment
+premise: All these changes-to multiple observers, professionally supervised but not professionally trained observers, and shorter observation times-led to others. [SEP] hypothesis: The professionally supervised have been lacking professional training in observing.	entailment
+premise: By a frantic effort of the great wings, it missed the hurtling chunk. [SEP] hypothesis: It missed the hurtling chunk.	entailment
+premise: The avenue of the ram-headed sphinxes flanks the route from the Nile to the temple entrance. [SEP] hypothesis: The route from the Nile to the temple is lined with ram-headed sphinxes.	entailment
+premise: Did you ever hear such a name?" But at that moment two elderly ladies rose and collected parcels, and Tuppence deftly ensconced herself in one of the vacant seats. [SEP] hypothesis: Tuppence took one of the seats vacated by the elderly ladies.	entailment
+premise: Domestic violence survivors in Jackson, Vicksburg, Hattiesburg, Oxford and Pascagoula can all get help. [SEP] hypothesis: Jackson, Vocksbery, Hattiesburg, Oxford and Pascagoula are domestic violence survivors 	entailment
+premise: and uh we had a couple of lakes out there that we'd go and and go fishing and then camp out and uh seemed like it always rain or something you know something had to go wrong and uh we were never prepared for it [SEP] hypothesis: There's a couple lakes we'd go fishing at but when we'd camp something would always go wrong.	entailment
+premise: Last summer the unit, which watches for signs of a military coup, executed 120 soldiers suspected of planning a rebellion. [SEP] hypothesis: Soldiers who were suspected of arranging a rebellion, ended up being executed.	entailment
+premise: Poor Emily was never murdered until he came along.  [SEP] hypothesis: She was killed after he showed up.	entailment
+premise: i was i was just uh oh well let's see i guess we've talked what almost five minutes [SEP] hypothesis: We've talked for almost five minutes.	entailment
+premise: Around the time of the transition there was much speculation about how things would change. [SEP] hypothesis: People wondered what would change during the transition.	entailment
+premise: Current Issues in Economics and Finance, Vol. 6, No. [SEP] hypothesis: There are no issues the organization needs to deal with in economics and finance.	contradiction
+premise: I don't, said Jon. [SEP] hypothesis: Jon said he certainly did love the girl.	contradiction
+premise: and you uh put about two tablespoons of uh water into this bowl and about an eighth a teaspoon of salt [SEP] hypothesis: You don't need water or salt. 	contradiction
+premise: exactly uh and at the same time i think that i receive on on the order of uh probably seven or eight a week calls of the nature where one wishes that there were a convenient way to just hang up on it [SEP] hypothesis: I don't get calls.	contradiction
+premise: 26 g for fathead minnows. [SEP] hypothesis: Fathead minnows cost 16 g.	contradiction
+premise: Other patients may require more extended treatment. [SEP] hypothesis: No patients require additional treatment after this.	contradiction
+premise: The lowest level of the pool dates back to the eighth century b.c. [SEP] hypothesis: The deepest level of the pool is dated to 2018 A.D.	contradiction
+premise: In 1909 Abdul Hamid was deposed and replaced by his brother, Mehmet V. [SEP] hypothesis: Mehmet V was ruler until Abdul Hamid stole the throne.	contradiction
+premise: How should that money be used--on more informal arrangements or on more day-care centers, on stiffer regulations or on other financial incentives to improve quality? [SEP] hypothesis: The money shouldn't be used?	contradiction
+premise: In fiscal year 2000, it provided health care assistance to an estimated 33 million persons, at a cost of about $118. [SEP] hypothesis: Only 12 million people received health care assistance at the cost of about $118 in 2000.	contradiction
+premise: Japan is notoriously expensive, so don't expect fabulous bargains. [SEP] hypothesis: Japan has bargains often and is inexpensive.	contradiction
+premise: Only one general issue is curiously  Afrocentrism. [SEP] hypothesis: Afrocentrism has never been an issue for anyone.	contradiction
+premise: and most of them joined the Red Cross and it was done internally i just there was very little external i think possibly what uh they're thinking about here more external Peace Corps type things where we're sending people off shore [SEP] hypothesis: All of it is done external and people can stay at home for the Peace Corps	contradiction
+premise: Now that thar I ain't cottonin' to none. [SEP] hypothesis: Now that tha that I am cottonin.	contradiction
+premise: It dates back over 1,000 years to when Indian merchants first brought their Hindu culture to the peninsula. [SEP] hypothesis: Indian merchants first brought their Hindu culture to the peninsula only in the past 200 years. 	contradiction
+premise: 'Apparently you do,' I countered. [SEP] hypothesis: I didn't think they were apparent about anything. 	contradiction
+premise: Likewise for TV stations, as long as one owner's signals do not reach more than 35 percent of the nation's households. [SEP] hypothesis: They are given special priveleges for reaching less than 35% of homes.	neutral
+premise: These are right views, right intentions, right speech, right conduct, right livelihood, right effort, right mindfulness, and right contemplation. [SEP] hypothesis: The principals of their religious views are  are right views, right intentions, right speech, right conduct, right livelihood, right effort, right mindfulness, and right contemplation.	neutral
+premise: The third installment in McCarthy's trilogy about cowboys in the mid-20 th century seals his canonization. [SEP] hypothesis: McCarthy has a trilogy about dogs.	neutral
+premise: And as far as cricket is concerned, Caribbean players have turned the tables on their colonial mentors and now produce some of the best players in the world, easily capable of soundly outplaying the Brits. [SEP] hypothesis: Caribbean players really enjoy playing cricket.	neutral
+premise: The voice flowed warmly into his mind and he smiled. [SEP] hypothesis: He smiled after the woman's voice flowed warmly into his mind.	neutral
+premise: The cost in human lives was terrible, with 250,000 dead and wounded on each side. [SEP] hypothesis: Beyond lives lost, families were traumatized and lost their incomes and homes.	neutral
+premise: The NFL's current four-year contract for national TV broadcasts pays it about $2. [SEP] hypothesis: The NFL has a contract with FOX and NBC.	neutral
+premise: A young woman was struggling with an older man. [SEP] hypothesis: The man was stronger than the woman.	neutral
+premise: He screamed and fell, his face ashen in shock. [SEP] hypothesis: When he saw the body, he screamed in horror as he fell backward.	neutral
+premise: and then i would do them like two times a day but i don't do any of that kind of stuff anymore i think having children everything just kind of everything goes by the wayside [SEP] hypothesis: I quit having weed parties at my house a few years ago.	neutral
+premise: if it rains if it rains any more and gets really hot then we have this problem with mosquitoes [SEP] hypothesis: If it rains a lot, we get a lot of mosquitoes in the grass.	neutral
+premise: The big wardrobe loomed up in a sinister fashion before her eyes. [SEP] hypothesis: The wardrobe is full of clothes.	neutral
+premise: Gentilello and colleagues at the Harborview Medical Center in Seattle, Washington, conducted a randomized controlled trial in a Level I trauma center. [SEP] hypothesis: Gentilello had 6 doctors in his team who regularly conduct trials in Seattle medical centers. 	neutral
+premise: In making this judgment, the auditor should take into account the uncertainty of estimates and assumptions made in using a cost model. [SEP] hypothesis: It is not necessary for auditors to interview the people responsible for estimates.	neutral
+premise: Amid this wild beauty, enhanced by spectacular outcrops of limestone rock, are the tell-tale scars of the tin mines of the Kinta Valley. [SEP] hypothesis: Besides being ruined by tin mining, it is also ruined by some deforestation.	neutral
+premise: I wasn't even a construction engineer. [SEP] hypothesis: We need to hire a construction engineer.	neutral
